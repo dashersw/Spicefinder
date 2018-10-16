@@ -1,5 +1,5 @@
 # Spicefinder
 
-The idea is to find spices for specific recepies. For now I have just one-to-one copied the logic of the meetup example from the first class to practice, try to understand+remember. 
+The aim is to find spices for specific recepies. The original idea was to share rare spices in a building, to check which one of your neightbours has it so you don't have to buy it. 
 
-But the problem is that it's not clear to me how adding a second interaction should work: _lookfor_ in line 47 - as in find the spices in your kitchen - one spice can only be at one location. I am probably missing something very basic here, but I thought I would ask instead of struggling for (another few) hours. 
+For now, the _Location_ is within your own kitchen, for the sake of clarity (for me:). 
