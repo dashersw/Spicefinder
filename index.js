@@ -4,9 +4,9 @@
 
 // But the problem is that it's not clear to me how adding a second interaction should work:
 // lookfor in line 47 - as in find the spices in your kitchen 
-// - one spice can only be at one location.
+// - one spice can only be at one location, there for not a list?!
 // I am probably missing something very basic here, but I thought I would ask 
-// instead of struggling for (another few) hours. 
+// instead of struggling for (another few) hours. Thank you for the help!
 
 var Spice = class {
     constructor(name,where) {
