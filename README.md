@@ -4,9 +4,9 @@ The aim is to find spices for specific recepies. The original idea was to share 
 
 Classes: Spice, Recepie, Location
 
-A spice can be used for various recepies. 
-One spice can only be at one location. (Ideally, if you share.) 
-A recepie needs one or more rare spices. 
-Locations can have more spices. (Could, but not yet.)
+A spice can be used for various recepies. <br>
+One spice can only be at one location. (Ideally, if you share.) <br>
+A recepie needs one or more rare spices. <br>
+Locations can have more spices. (Could, but not yet.) <br>
 
 Interaction: A spice can be added to recepies. A spice can be found at one location?!
